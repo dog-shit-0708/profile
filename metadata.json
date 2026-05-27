@@ -1,0 +1,8 @@
+{
+  "name": "Zhou Xi - AI App Developer Portfolio",
+  "description": "Personal website of Zhou Xi, an AI Application & Agent Development Engineer specializing in LLMs, RAG, and Agentic workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
